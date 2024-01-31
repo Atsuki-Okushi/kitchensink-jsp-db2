@@ -6,5 +6,5 @@
   "allow-any-hostname": true,
   "resource": "myapp-okushi-atsuki",
   "public-client": true,
-  "confidential-port": 0,0
+  "confidential-port": 0
 }
